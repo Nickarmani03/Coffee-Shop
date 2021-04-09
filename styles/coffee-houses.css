@@ -1,0 +1,29 @@
+body {
+   background-color: rgb(114, 175, 245);
+    font-family: 'Lobster', cursive;
+    text-shadow: 3px 3px 3px #727b80;
+   }
+.pageHeader {
+    text-align: center;
+}
+.list {
+    display: flex;
+    flex-wrap: wrap;
+    text-align: center;
+      }
+
+
+.coffee_house {
+    border: 1px dotted rgb(14, 13, 13);
+    padding: 1em;
+    margin: 0.5em;
+    display: flex;
+  }
+.list_address {
+    border: 1px dotted rgb(19, 17, 18);
+    padding: 1em;
+    margin: 0.5em;
+    display: flex;
+  }
+  
+  
